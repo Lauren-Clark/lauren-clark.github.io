@@ -1,8 +1,8 @@
-# Welcome to Lauren Clark's Git Repo!!
-
+ # <div align="center">  Welcome to Lauren Clark's Git Repo!! </div>
+ 
 ![alt text](https://media.tenor.com/images/96538f8377043ab31b2b0e62bd821c06/tenor.gif "Cute Fox")
 
-## Glad that you've found my page. This cute :fox_face: welcomes you.
+## <div align="center"> Glad that you've found my page. This cute :fox_face: welcomes you. </div>
 
 ---  
 
@@ -17,3 +17,5 @@ My name is Lauren Clark; native to Pennsylvania -   and I'm a Web Development ma
 * Flexbox
 * Bootstrap
 * Professional Development
+
+</div>
