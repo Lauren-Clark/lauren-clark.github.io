@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Welcome to Lauren Clark's Git Repo!!
 
-You can use the [editor on GitHub](https://github.com/Lauren-Clark/lauren-clark.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![alt text](https://media.tenor.com/images/96538f8377043ab31b2b0e62bd821c06/tenor.gif "Cute Fox")
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Glad that you've found my page. This cute :fox_face: welcomes you.
 
-### Markdown
+---  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My name is Lauren Clark; native to Pennsylvania -   and I'm a Web Development major at Delaware County Community College. I'm in my second to last semester and so far have learned about building: Android applications, Web Hosting, HTML5 and CSS3 based web pages and MySQL databases.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### List of portfolio projects:
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lauren-Clark/lauren-clark.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Advanced CSS
+* Media Queries
+* CSS Grid Systems
+* Flexbox
+* Bootstrap
+* Professional Development
