@@ -3,7 +3,8 @@
 ![Galaxy](https://media.giphy.com/media/35NGT2lm6mfHlNAkMu/giphy.gif)
 
 
-## Glad that you've found my page. Here's a time lapse of the Aurora Borealis. 
+## Glad that you've found my page. 
+### Here's a time lapse of the Aurora Borealis. 
 
 ---  
 
