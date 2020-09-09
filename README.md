@@ -1,8 +1,8 @@
 # Welcome to Lauren Clark's Git Repo!
  
-![Fox](https://media.tenor.com/images/96538f8377043ab31b2b0e62bd821c06/tenor.gif)
+![Galaxy](https://giphy.com/gifs/space-stars-universe-l3c5KHKsaacXMIBG0)
 
-## Glad that you've found my page. This cute fox welcomes you. 
+## Glad that you've found my page. Here's a beautiful galaxy.
 
 ---  
 
