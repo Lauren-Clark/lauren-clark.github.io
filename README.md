@@ -1,6 +1,7 @@
 # Welcome to Lauren Clark's Git Repo!
  
-![Galaxy](https://giphy.com/gifs/space-stars-universe-l3c5KHKsaacXMIBG0)
+![Galaxy](https://media.tenor.com/images/567d4fd5620d4f595740ad69278c23f3/tenor.gif)
+
 
 ## Glad that you've found my page. Here's a beautiful galaxy.
 
