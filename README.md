@@ -1,8 +1,8 @@
- # <div align="center"> Welcome to Lauren Clark's Git Repo! </div>
+# Welcome to Lauren Clark's Git Repo!
  
 ![Fox](https://media.tenor.com/images/96538f8377043ab31b2b0e62bd821c06/tenor.gif)
 
-## <div align="center"> Glad that you've found my page. This cute :fox_face: welcomes you. </div>
+## Glad that you've found my page. This cute :fox_face: welcomes you. 
 
 ---  
 
