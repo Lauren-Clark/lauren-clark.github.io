@@ -1,9 +1,9 @@
 # Welcome to Lauren Clark's Git Repo!
  
-![Galaxy](https://media.tenor.com/images/567d4fd5620d4f595740ad69278c23f3/tenor.gif)
+![Galaxy](https://media.giphy.com/media/35NGT2lm6mfHlNAkMu/giphy.gif)
 
 
-## Glad that you've found my page. Here's a beautiful galaxy.
+## Glad that you've found my page. Here's a time lapse of the Aurora Borealis. 
 
 ---  
 
