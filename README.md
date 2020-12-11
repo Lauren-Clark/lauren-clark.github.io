@@ -18,7 +18,7 @@ My name is Lauren Clark; native to Pennsylvania - and I'm a Web Development majo
 
 [Applied Visual Design](https://lauren-clark.github.io/Applied-Visual-Design/)
 
-[Applied Accessibility Design](https://lauren-clark.github.io/Accessibility-Assignment/revised/index.html/)
+[Applied Accessibility Design](https://lauren-clark.github.io/Accessibility-Assignment/revised/index.html)
 
 * Media Queries:
 [Media Queries 1](https://lauren-clark.github.io/Media-Query/)  
