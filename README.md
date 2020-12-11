@@ -14,8 +14,10 @@ My name is Lauren Clark; native to Pennsylvania - and I'm a Web Development majo
 ### List of portfolio projects:
 
 * Advanced CSS: 
-[Tribute Page] https://lauren-clark.github.io/Robert-Plant-Tribute/
+[Tribute Page] (https://lauren-clark.github.io/Robert-Plant-Tribute/)
+
 [Applied Visual Design](https://lauren-clark.github.io/Applied-Visual-Design/)
+
 [Applied Accessibility Design](https://lauren-clark.github.io/Accessibility-Assignment/revised/index.html/)
 
 * Media Queries:
