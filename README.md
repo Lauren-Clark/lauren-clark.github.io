@@ -14,25 +14,25 @@ My name is Lauren Clark; native to Pennsylvania - and I'm a Web Development majo
 ### List of portfolio projects:
 
 * Advanced CSS: 
-![Tribute Page](https://lauren-clark.github.io/Robert-Plant-Tribute/)
-![Applied Visual Design](https://lauren-clark.github.io/Applied-Visual-Design/)
-![Applied Accessibility Design](https://lauren-clark.github.io/Accessibility-Assignment/revised/index.html/)
+[Tribute Page](https://lauren-clark.github.io/Robert-Plant-Tribute/)
+[Applied Visual Design](https://lauren-clark.github.io/Applied-Visual-Design/)
+[Applied Accessibility Design](https://lauren-clark.github.io/Accessibility-Assignment/revised/index.html/)
 
 * Media Queries:
-![Media Queries 1](https://lauren-clark.github.io/Media-Query/)
-![Vacation Site](https://lauren-clark.github.io/Vacation-Website/)
+[Media Queries 1](https://lauren-clark.github.io/Media-Query/)
+[Vacation Site](https://lauren-clark.github.io/Vacation-Website/)
 
 * CSS Grid Systems:
-![Grid wireframe](https://lauren-clark.github.io/PortfolioPageWireframe/)
+[Grid wireframe](https://lauren-clark.github.io/PortfolioPageWireframe/)
 
 
 * Flexbox:
-![Flex Box](https://lauren-clark.github.io/FlexBox/)
-![Flex Box Landing Page](https://lauren-clark.github.io/FlexBoxLandingPage/)
+[Flex Box](https://lauren-clark.github.io/FlexBox/)
+[Flex Box Landing Page](https://lauren-clark.github.io/FlexBoxLandingPage/)
 
 * Bootstrap:
-![Bootstrap](https://lauren-clark.github.io/Bootstrap/)
+[Bootstrap](https://lauren-clark.github.io/Bootstrap/)
 
 * Professional Development with Bootstrap:
-![Online Resume](https://lauren-clark.github.io/OnlineResume/)
+[Online Resume](https://lauren-clark.github.io/OnlineResume/)
 
