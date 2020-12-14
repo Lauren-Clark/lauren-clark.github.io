@@ -34,7 +34,7 @@ My name is Lauren Clark; native to Pennsylvania - and I'm a Web Development majo
 
 [Flex Box Landing Page](https://lauren-clark.github.io/FlexBoxLandingPage/)
 
-[Portfolio](https://lauren-clark.github.io/Portfolio/
+[Portfolio](https://lauren-clark.github.io/Portfolio/)
 
 * Bootstrap:
 [Bootstrap](https://lauren-clark.github.io/Bootstrap/)
